@@ -14,6 +14,8 @@
             <a href="https://github.com/FrontenderMagazine/" title="Мы на гитхабе" class="github icon-github">GitHub</a>
             <a href="http://feeds.frontender.info/FrontenderMagazineArticles/" title="Читайте наш RSS" class="rss icon-rss">rss-канал</a>
 		</nav>
+		</article>
+		<article>
 		
 		<section>
 		 <h1>Создание интерактивного видео на HTML5</h1>
