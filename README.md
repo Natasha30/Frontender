@@ -6,18 +6,18 @@
  <meta name=viewport content="width=device-width, initial-scale=1"> 
    
 </head>
-<body>
-	<article>
+<main>
+	<section>
 	    <h1>Frontender Magazine</h1>
 		<nav>
 			<a href="http://twitter.com/frontenderinfo" title="Подпишитесь на твиттер" class="twitter icon-twitter">@frontenderinfo</a>
             <a href="https://github.com/FrontenderMagazine/" title="Мы на гитхабе" class="github icon-github">GitHub</a>
             <a href="http://feeds.frontender.info/FrontenderMagazineArticles/" title="Читайте наш RSS" class="rss icon-rss">rss-канал</a>
 		</nav>
-		</article>
-		<article>
-		
+		</section>
 		<section>
+		
+		<article>
 		 <h1>Создание интерактивного видео на HTML5</h1>
 		 <p>Степень привлекательности и удобства большинства элементов веб-страниц 
          определяется возможностью взаимодействовать с ними. И видеоролики 
@@ -42,14 +42,14 @@
             <dd><a href= / >hacks.mozilla.org</a></dd>
           </dl>  
           </footer> 
-          </section>
+          </article>
         
-         </article>
+         </section>
        
                    
-          <article>
+          <section>
                    
-	    	<section>
+	    	<article>
 	    		<h1>Два столпа JavaScript. Часть 2: функциональное программирование.</h1>
 	    		<p>Во второй части «Столпов» автор рассказывает об истории возникновения функционального программирования, основных его идеях и реактивном подходе к созданию приложений в JavaScript.
 
@@ -73,9 +73,9 @@
           </dl>
           </footer> 
          
-	    	</section>
+	    	</article>
 
-	    	<section>
+	    	<article>
 	    		<h1>Два столпа JavaScript. Часть 1: наследование через прототипы.</h1>
 	    		<p>В первой части «Столпов» автор рассуждает о неправильном понимании «классического» наследования в ООП, на примере JavaScript рассматривает плюсы альтернативных способов наследования.
                 </p>
@@ -97,8 +97,8 @@
             <dd><a href= / >medium.com</a></dd>
           </dl>
          </footer> 
-	    	</section>
-	    	<section>
+	    	</article>
+	    	<article>
 	    		<h1>Аватары с рваными краями при помощи CSS clip-path</h1>
 	    		<p>Как придать элементам на своем сайте вид чего-то нарисованного, или сделанного руками, да еще так, чтобы эффект не повторялся? В статье описывается способ, как при помощи базовых понятий из тригонометрии, CSS-свойства <code>clip-path</code> и функций в SCSS создать пользовательские аватарки с уникальным, не повторяющимся рисунком «оборванных» краев.
                 </p>
@@ -120,12 +120,13 @@
           </dl>
           
          </footer> 
-	    	</section>
-	    </article>
-	    <section>
+	    	</article>
+	    </section>
+	    </main>
+	    <aside>
 	    	<h1>Поддержите журнал!</h1>
 	    	<p>Деньги будут использованы для оплаты работы над новыми публикациями.</p>
-	    </section>
+	    </aside>
 	    <footer>
 	    <div class="logotype">fr.</div>
 	    <nav>
@@ -150,5 +151,5 @@
 	    	<small>Материалы в оригинале опубликованные под лицензией <u>Creative Commons</u> сохраняют её.
 	    	</small>
 	    </footer>
-</body>
+
 </html>
