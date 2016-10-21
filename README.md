@@ -14,6 +14,8 @@
             <a href="https://github.com/FrontenderMagazine/" title="Мы на гитхабе" class="github icon-github">GitHub</a>
             <a href="http://feeds.frontender.info/FrontenderMagazineArticles/" title="Читайте наш RSS" class="rss icon-rss">rss-канал</a>
 		</nav>
+		
+		<section>
 		 <h1>Создание интерактивного видео на HTML5</h1>
 		 <p>Степень привлекательности и удобства большинства элементов веб-страниц 
          определяется возможностью взаимодействовать с ними. И видеоролики 
@@ -38,14 +40,15 @@
             <dd><a href= / >hacks.mozilla.org</a></dd>
           </dl>  
           </footer> 
+          </section>
         
          </article>
        
-                   <h1>Разделы</h1>
-                    <article>
-                    <h1>Два столпа JavaScript. Часть 2: функциональное программирование.</h1>
+                   
+          <article>
+                   
 	    	<section>
-	    		
+	    		<h1>Два столпа JavaScript. Часть 2: функциональное программирование.</h1>
 	    		<p>Во второй части «Столпов» автор рассказывает об истории возникновения функционального программирования, основных его идеях и реактивном подходе к созданию приложений в JavaScript.
 
                 </p>
